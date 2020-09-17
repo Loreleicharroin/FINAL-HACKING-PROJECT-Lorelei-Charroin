@@ -1,0 +1,48 @@
+body
+{
+	margin: 70px auto;
+	padding:0 10px;
+	max-width: 650px;
+	text-align:justify;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #444
+}
+.wrong
+{
+	color: maroon;
+	text-decoration: underline;
+}
+
+.bleu
+{
+	color:blue;
+}
+
+.zero
+{
+	font-family: courier new;
+	font-size: 0.8em
+}
+
+.imageflottante
+{
+	float: left;
+}
+
+.red
+{
+	color: maroon
+}
+
+.dessous
+{
+	clear: both;
+}
+
+.petit
+{
+	font-size: 0.4em
+}
+
+
